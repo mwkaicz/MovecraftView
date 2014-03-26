@@ -11,12 +11,12 @@
   <body>
   
   <center>
-    <h2>MovecraftView v1.0</h2><h3>PHP classes to view the properties of the <a href="http://dev.bukkit.org/bukkit-plugins/movecraft/" title="Bukkit-plugins: Movecraft">Movecraft</a> .craft files on the website</h3>
+    <h2>MovecraftView v1.0</h2><h3>PHP classes to view the properties of the <a href="http://dev.bukkit.org/bukkit-plugins/movecraft/" title="Bukkit-plugins: Movecraft" target="_blank">Movecraft</a> .craft files on the website</h3>
     <h4>
-    Source code is published on <a href="https://github.com/mwkaicz/MovecraftView" title="github.com/mwkaicz/MovecraftView">https://github.com/mwkaicz/MovecraftView</a> and it's free for use under terms of GNU GPLv2.<br/>
-    Tickets and issues: <a href="https://github.com/mwkaicz/MovecraftView/issues" title="Issues">https://github.com/mwkaicz/MovecraftView/issues</a><br/>
-    A working example: <a href="http://www.craftman.cz/minecraft/MovecraftView/" title="Example">http://www.craftman.cz/minecraft/MovecraftView</a><br/>  
-    Created especially for <a href="http://craftman.cz" title="CRAFTMAN.CZ">CRAFTMAN.CZ</a><br/>
+    Source code is published on <a href="https://github.com/mwkaicz/MovecraftView" title="github.com/mwkaicz/MovecraftView" target="_blank">https://github.com/mwkaicz/MovecraftView</a> and it's free for use under terms of GNU GPLv2.<br/>
+    Tickets and issues: <a href="https://github.com/mwkaicz/MovecraftView/issues" title="Issues" target="_blank">https://github.com/mwkaicz/MovecraftView/issues</a><br/>
+    A working example: <a href="http://www.craftman.cz/minecraft/MovecraftView/" title="Example" target="_blank">http://www.craftman.cz/minecraft/MovecraftView</a><br/>  
+    Created especially for <a href="http://craftman.cz" title="CRAFTMAN.CZ" target="_blank">CRAFTMAN.CZ</a><br/>
     Author: mwkaicz (ↄ) 2014<br/>
     </h4>
   </center>
