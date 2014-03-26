@@ -13,3 +13,7 @@ PHP classes to view the properties of Movecraft .craft files on website
 - Created especially for http://www.craftman.cz
 
 - Author: mwkaicz (ↄ) 2014
+
+- Requires: 
+  * spyc.php
+  * jquery.js
